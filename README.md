@@ -1,19 +1,18 @@
-# 18F Open Source Policy
+# NPMap open source policy
 
-This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
+This repository contains the official [Open Source Policy](policy.md) of [NPMap](http://www.nps.gov/npmap/) (a digital mapping team within the [National Park Service](http://www.nps.gov/)).
 
-**[Read 18F's Open Source Policy.](policy.md)**
+**[Read NPMap's open source policy.](policy.md)**
 
-### 18F Team Guidance
+### NPMap team guidance
 
-For 18F team members, we have guidance on how 18F puts this policy into practice, and how we handle the narrow situations where we may delay or withhold the release of source code.
+For NPMap team members, we have guidance on how NPMap puts this policy into practice, and how we handle the narrow situations where we may delay or withhold the release of source code.
 
-**[18F's open source team practices.](practice.md)**
+**[NPMap's open source team practices.](practice.md)**
 
 ### Credits
 
-This policy was originally forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). Thanks also to [@benbalter](https://github.com/benbalter) for his [insights regarding CFPB's initial policy](http://ben.balter.com/2012/04/10/whats-missing-from-cfpbs-awesome-new-source-code-policy/).
-
+This policy was originally forked from [18F's policy](https://github.com/18F/open-source-policy/), which was, in turn, forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). Thanks also to [@benbalter](https://github.com/benbalter) for his [insights regarding CFPB's initial policy](http://ben.balter.com/2012/04/10/whats-missing-from-cfpbs-awesome-new-source-code-policy/).
 
 ### Public domain
 
