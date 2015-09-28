@@ -1,4 +1,4 @@
-# NPMap open source policy
+# NPMap Open Source Policy
 
 This repository contains the official [Open Source Policy](policy.md) of [NPMap](http://www.nps.gov/npmap/) (a digital mapping team within the [National Park Service](http://www.nps.gov/)).
 
@@ -6,7 +6,7 @@ This repository contains the official [Open Source Policy](policy.md) of [NPMap]
 
 ### NPMap team guidance
 
-For NPMap team members, we have guidance on how NPMap puts this policy into practice, and how we handle the narrow situations where we may delay or withhold the release of source code.
+For NPMap team members, we have guidance on how NPMap puts this policy into practice and how we handle the narrow situations where we may delay or withhold the release of source code.
 
 **[NPMap's open source team practices.](practice.md)**
 
