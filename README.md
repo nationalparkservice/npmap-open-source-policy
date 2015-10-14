@@ -1,6 +1,6 @@
 # NPMap Open Source Policy
 
-This repository contains the [Open Source Policy](policy.md) of the [NPMap team](http://www.nps.gov/npmap/), which is part of the [U.S. National Park Service](http://www.nps.gov/) (NPS).
+This repository contains a **DRAFT** [Open Source Policy](policy.md) for the [NPMap team](http://www.nps.gov/npmap/), which is part of the [U.S. National Park Service](http://www.nps.gov/) (NPS). This document is a work-in-progress, and has not been officially approved at this point.
 
 **[Read NPMap's open source policy.](policy.md)**
 
